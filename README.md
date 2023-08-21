@@ -6,7 +6,7 @@ Each folder provides the Quartus II project file, Quartus II Output Files, VHDL 
 Included Is;
 -"CombinationLock" : A simulated combination lock where the user uses the onboard push buttons to enter a combination --> Good example of a mealy state machine.
 
--"FullerAdderWithGenerics" : A simulated full adder where the user uses the onboard switches to control the inputs --> Good example of using generics.
+-"FullerAdderWithGenerics" : A simulated full adder where the user uses the onboard switches to control the inputs   --> Good example of using generics.
 
 -"HelloFPGA" : An extremely basic program that just shows how to set up a few sections of the board and get your first program going.
 
@@ -22,6 +22,6 @@ Included Is;
 
 -"TestingIO" : A slightly less extremely basic program that just shows how to set up multiple sections of the board and get your first program going, this time also including the onboard hex displays.
 
--"Thermostat" : A simulated thermostat where the user can increment and decrement the temperature displayed --> A good introduction to arrays, subtypes, and signals.
+-"Thermostat" : A simulated thermostat where the user can increment and decrement the temperature displayed --> Good introduction to arrays, subtypes, and signals.
 
--"TrafficLights" : A simulated traffic light where the user uses the onboard push buttons to enter a traffic condition --> Good example of a moore state machine.
+-"TrafficLights" : A simulated traffic light where the user uses the onboard push buttons to enter a traffic condition   --> Good example of a moore state machine.
