@@ -7,6 +7,8 @@ Included Is;
 
 -"CombinationLock" : A simulated combination lock where the user uses the onboard push buttons to enter a combination --> Good example of a mealy state machine.
 
+-"ErrorReportingWithResolutions" : A program to show how to set up and use three dimensional arrays and resolution tables to streamline designs.
+
 -"FullerAdderWithGenerics" : A simulated full adder where the user uses the onboard switches to control the inputs --> Good example of using generics.
 
 -"HelloFPGA" : An extremely basic program that just shows how to set up a few sections of the board and get your first program going.
@@ -14,8 +16,6 @@ Included Is;
 -"PackagesAndComponents" : A simulated full adder now utilizing multiple seperate files that interact with one another --> Good example of how to set up packages and components within a project.
 
 -"Resettable Timer" : A simulated timer that increments every second and counts off the seconds, minutes, and hours --> Good example of how to manipulate the avaiable onboard clock signals.
-
--"ErrorReportingWithResolutions" : A program to show how to set up and use three dimensional arrays and resolution tables to streamline designs.
 
 -"SequentialProgramming" : A simple program that outputs to onboard 7-segment hex displays and which intentionally only uses sequential principles to get comfortable with the software before trying concurrent programming.
 
