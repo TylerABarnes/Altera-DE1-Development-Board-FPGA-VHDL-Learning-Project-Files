@@ -4,6 +4,7 @@ A collection of all my major VHDL experiments and learning code demonstrations f
 Each folder provides the Quartus II project file, Quartus II Output Files, VHDL files to be included in the project, and the pin assignments needed to run the code properly on the board.
 
 Included Is;
+
 -"CombinationLock" : A simulated combination lock where the user uses the onboard push buttons to enter a combination --> Good example of a mealy state machine.
 
 -"FullerAdderWithGenerics" : A simulated full adder where the user uses the onboard switches to control the inputs   --> Good example of using generics.
