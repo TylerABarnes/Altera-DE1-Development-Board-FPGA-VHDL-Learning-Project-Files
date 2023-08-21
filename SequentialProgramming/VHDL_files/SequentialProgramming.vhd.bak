@@ -1,0 +1,19 @@
+entity SequentialProgramming is
+	port(
+	ledr : out bit_vector(0 to 9);
+	ledg : out bit_vector(0 to 7);
+	hex0 : out bit_vector(0 to 6);
+	hex1 : out bit_vector(0 to 6);
+	hex2 : out bit_vector(0 to 6);
+	hex3 : out bit_vector(0 to 6);
+	
+	key : in bit_vector(0 to 3);
+	sw : in bit_vector(0 to 9)
+	);
+end SequentialProgramming;
+
+architecture arch of SequentialProgramming is
+
+begin
+
+end arch;

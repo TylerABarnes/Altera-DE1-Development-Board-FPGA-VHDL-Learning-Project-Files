@@ -1,0 +1,25 @@
+library ieee;                              --Using IEEE library
+use ieee.std_logic_1164.all;
+library ps;
+use ps.hex_conv.all;                       --ALL - takign everyhting out of the library
+
+entity PackagesComponents is
+	port(
+	clock_50 : in bit;
+	ledr : out bit_vector(0 to 9);
+	ledg : out bit_vector(0 to 7);
+	hex0 : out bit_vector(0 to 6);
+	hex1 : out bit_vector(0 to 6);
+	hex2 : out bit_vector(0 to 6);
+	hex3 : out bit_vector(0 to 6);
+	
+	key : in bit_vector(0 to 3);
+	sw : in bit_vector(0 to 9)
+	);
+end PackagesComponents;
+
+architecture arch of ResettableTimer is
+
+begin
+
+end arch;
