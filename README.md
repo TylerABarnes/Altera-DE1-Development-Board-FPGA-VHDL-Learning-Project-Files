@@ -15,7 +15,7 @@ Included Is;
 
 -"PackagesAndComponents" : A simulated full adder now utilizing multiple seperate files that interact with one another --> Good example of how to set up packages and components within a project.
 
--"Resettable Timer" : A simulated timer that increments every second and counts off the seconds, minutes, and hours --> Good example of how to manipulate the avaiable onboard clock signals.
+-"Resettable Timer" : A simulated timer that increments every second and counts off the seconds, minutes, and hours. Time can also be frozen and set by the user. --> Good example of how to manipulate the available onboard clock signals.
 
 -"SequentialProgramming" : A simple program that outputs to onboard 7-segment hex displays and which intentionally only uses sequential principles to get comfortable with the software before trying concurrent programming.
 
